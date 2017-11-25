@@ -14,18 +14,18 @@ Bu proje bir şirketin mobil uygulama üzerinden ürünlerini anlık olarak tüm
 # PROJE EKRAN GÖRÜNTÜLERİ
 <p>
   
-<a href="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/1.png" target="_blank">
-<img src="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/1.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/1.png" target="_blank">
+<img src="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/1.png" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/2.png" target="_blank">
-<img src="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/2.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/2.png" target="_blank">
+<img src="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/2.png" width="200" style="max-width:100%;"></a>
 
 
-<a href="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/3.png" target="_blank">
-<img src="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/3.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/3.png" target="_blank">
+<img src="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/3.png" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/4.png" target="_blank">
-<img src="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/4.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/4.png" target="_blank">
+<img src="https://github.com/cagrimulayim/UrunYonetimiV1/blob/master/ekranGoruntuleri/4.png" width="200" style="max-width:100%;"></a>
 
 <a href="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/5.png" target="_blank">
 <img src="https://github.com/hakanozer/UrunYonetimi/blob/master/ekranGoruntuleri/5.png" width="200" style="max-width:100%;"></a>
